@@ -1,0 +1,18 @@
+	|---------------------------------|
+	|           INVOICE               |
+	|---------------------------------|
+Customer Name: Shinobu
+Date of rent: 2024/5/5
+ 60000Rented Land Details:
+|---------------------------------------------------------------------------|
+|Kitta no | name of city | direction of Land |  Anna | Price | Availability |
+|---------------------------------------------------------------------------|
+108					 Dharan					 South					 6					 60000					Not Available
+Date of rent: 2024/5/5
+ 90000Rented Land Details:
+|---------------------------------------------------------------------------|
+|Kitta no | name of city | direction of Land |  Anna | Price | Availability |
+|---------------------------------------------------------------------------|
+109					 Butwal					 West					 9					 90000					Not Available
+|---------------------------------------------------------------------------|
+Total Price of the rented lands are: 150000Total Price of the rented lands are: 150000
